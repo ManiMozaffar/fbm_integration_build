@@ -6,6 +6,7 @@ A integration script for FBM users to connect their application to SnipeTransfer
 1. Download and unpack this zip file: https://github.com/ManiMozaffar/fbm_integration_build/archive/refs/heads/main.zip
 2. Start script, give your username/password, remember 3 failed attempts will get your ip blocked for 3 hours
 3. Let script find your fbm, and rest is handled automatically. Enjoy :)
+4. If you place script in same folder as FBM, it'll find FBM much faster, so do that if you can
 
 
 ## What does this script do?
